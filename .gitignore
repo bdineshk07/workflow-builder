@@ -1,0 +1,22 @@
+# Node
+frontend/node_modules
+frontend/dist
+frontend/build
+
+# Python
+backend/.venv
+backend/__pycache__
+backend/*.pyc
+backend/.env
+backend/venv
+
+# General
+.env
+.env.local
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Docker
+docker-compose.override.yml
