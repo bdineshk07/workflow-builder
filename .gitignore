@@ -11,7 +11,7 @@ backend/.env
 backend/venv
 
 # General
-.env
+backend/.env
 .env.local
 .DS_Store
 .vscode/
